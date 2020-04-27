@@ -1,4 +1,4 @@
-package jpsam3hklam9.des;
+package des;
 
 class FeistelFunction
 {

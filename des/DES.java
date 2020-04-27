@@ -1,4 +1,4 @@
-package jpsam3hklam9.des;
+package des;
 
 /**
  *  Data Encryption Standard (DES) Java Implementation
